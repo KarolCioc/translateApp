@@ -24,5 +24,7 @@ To deploy this project run
 
 ## Overview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p float="left">
+ <img src="./assets/images/1.jpg" width=300>
+</p>
 
